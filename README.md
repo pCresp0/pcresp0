@@ -13,7 +13,7 @@
 ### 👨🏼‍🚀 About me
 
 - 🔭 **Currently building:** Native utilities for macOS (Apple Silicon), sports/fitness automation tools, and data-driven scripts.
-- ☁️ **Professional Focus:** Salesforce Manager/Specialist Lead with extensive experience in enterprise architecture, release management (CI/CD, Jenkins, Git), and custom development.
+- ☁️ **Professional Focus:** Salesforce Manager & Specialist Lead in tech consulting. I lead and mentor development teams, architecting and implementing complex Salesforce solutions that drive digital transformation for global clients.
 - 🌱 **Currently learning:** Deepening my knowledge through specialized coursework in Artificial Intelligence.
 - 💡 **My approach:** I am an insatiably curious learner who turns curiosity into code. I love diving deep into how things work, from complex CRM deployments to practical side projects.
 - 🏋️‍♂️ **Beyond the screen:** Hybrid athlete, sports lover, and always up for a good tactical board game.
