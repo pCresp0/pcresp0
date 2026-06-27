@@ -51,7 +51,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="SOQL" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Data_Cloud-FFFFFF?style=for-the-badge&logo=salesforce&logoColor=00A1E0" alt="Data Cloud" />
 </p>
 
 **IDEs & Editors:**
