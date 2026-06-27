@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Pablo Crespo 👋</h1>
 
-<h3 align="center">Salesforce Specialist Lead | Telecom Engineer | Tech Explorer</h3>
+<h3 align="center">Salesforce Manager | Telecom Engineer | Insatiably curious</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pablocrespobellido" target="_blank">
@@ -12,9 +12,9 @@
 
 ### 👨🏼‍🚀 About me
 
-- 🔭 **Currently building:** Native utilities for macOS (Apple Silicon), sports/fitness automation tools, and data-driven scripts.
-- ☁️ **Professional Focus:** Salesforce Manager in tech consulting. I lead and mentor development teams, architecting and implementing complex Salesforce solutions that drive digital transformation for global clients.
-- 🌱 **Currently learning:** Deepening my knowledge through specialized coursework in Artificial Intelligence.
+- 🔭 **Currently building:** Native utilities for macOS (Apple Silicon), sports/fitness automation tools, data-driven scripts, and basically any other useful tool that sparks my curiosity, helps me learn new skills, or improves my daily life.
+- ☁️ **Professional Focus:** Salesforce Manager in tech consulting. I lead and mentor development teams, architecting and implementing complex Salesforce solutions that drive digital transformation for banking and insurance spanish clients.
+- 🌱 **Currently learning:** Learning day by day about anything I can. Right now, I am heavily focused on Artificial Intelligence—a field that evolves daily and demands constant exploration to stay up to date.
 - 💡 **My approach:** I am an insatiably curious learner who turns curiosity into code. I love diving deep into how things work, from complex CRM deployments to practical side projects.
 - 🏋️‍♂️ **Beyond the screen:** Athlete, sports lover, and always up for a good tactical board game.
 
